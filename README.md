@@ -24,7 +24,7 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
   💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, Salesforce.\
   🌱 &nbsp;I'm on track for learning more about Machine Learning and AI.\
   👨‍💻 &nbsp;I am practising on AI. \
-  ✉️ &nbsp;Get in touch with me via email at ```bhagya2825[at]gmail[dot]com```. 
+  ✉️ &nbsp;Get in touch with me via email at ```bhagya2825@gmail.com```. 
 
  <b> </b>
 
