@@ -1,15 +1,15 @@
 # Hi,
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> "Welcome" </a>
+  <a href="https://github.com/BhagyaMulay"> Welcome </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> "Bhagyashree Mulay"  </a>
+  <a href="https://github.com/BhagyaMulay"> Bhagya Mulay  </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhagyamulay">"LinkedIn"</a> &nbsp; 
-  <a href="https://github.com/bhagya2506"> "Github" </a> &nbsp;
+  <a href="https://www.linkedin.com/in/bhagyamulay"> LinkedIn </a> &nbsp; 
+  <a href="https://github.com/bhagya2506">  Github </a> &nbsp;
   <a href="https://github.com/bhagya2506"><img loading="lazy" src="https://komarev.com/ghpvc/?username=bhagya2506" width="1" height="1" /></a>  
 </p>
 
