@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhagyamulay"><img loading="lazy" alt="LinkedIn" src="https://scdn.netlify.app/linkedin-samirpaul.svg"></a> &nbsp; 
+  <a href="https://www.linkedin.com/in/bhagyamulay"><img loading="lazy" alt="LinkedIn" src="https://scdn.netlify.app/linkedin-bhagya2825.svg"></a> &nbsp; 
   <a href="https://github.com/bhagya2506"><img loading="lazy" src="https://hits.sh/github.com/bhagya2506.svg?label=Visitors&extraCount=20000&color=white&labelColor=blue" alt="Visitors"></a> 
   <a href="https://github.com/bhagya2506"><img loading="lazy" src="https://komarev.com/ghpvc/?username=bhagya2506" width="1" height="1" /></a>  
 </p>
