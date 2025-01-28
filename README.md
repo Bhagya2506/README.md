@@ -21,17 +21,17 @@ https://img.shields.io/badge/-Twitter%20@SamirPaulb-white?style=social&logo=twit
 -->
 
 <b>*About Me*:</b> \
-  🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at National Institute of Technology, Durgapur.\
+  🎓 &nbsp;I'm currently studying masters in data science at Pace University, New York.\
   💡 &nbsp;Some technologies I enjoy working with include Python, MySQL, Git, HTML, CSS, C, Linux.\
   🌱 &nbsp;I'm on track for learning more about Data Structures and Algorithm, Software Development, Systems Design.\
-  👨‍💻 &nbsp;I am practising on [LeetCode](https://leetcode.com/SamirPaulb), [CodeChef](https://www.codechef.com/users/samirpaul1), [HackerRank](https://www.hackerrank.com/samirpaul1) and [GeeksforGeeks](https://auth.geeksforgeeks.org/user/samirpaul1/practice).\
-  ✉️ &nbsp;Get in touch with me via email at ```samirpaulb[at]gmail[dot]com```. 
+  👨‍💻 &nbsp;I am practising on \
+  ✉️ &nbsp;Get in touch with me via email at ```bhagya2825[at]gmail[dot]com```. 
 
  <b> </b>
 
 <b>*GitHub Stats*:</b> \
-  <a href="https://github.com/SamirPaulb">
+  <a href="https://github.com/bhagya2506">
   <img align="center"  width="100%" loading="lazy" src="github-metrics.svg" alt="Github Stats" />
   </a>
   
-<a href="https://github.com/SamirPaulb"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
+<a href="https://github.com/bhagya"><img width="100%" loading="lazy" src="assets/rainbow-superthin.webp" /></a>
