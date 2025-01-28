@@ -4,14 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> <img loading="lazy" alt="Samir" src="assets/bhagya.svg"/> <img loading="lazy" alt="Mulay" src="assets/Mulay.svg"/> </a>
+  <a href="https://github.com/BhagyaMulay"> <img loading="lazy" alt="Bhagya" src="assets/bhagya.svg"/> <img loading="lazy" alt="Mulay" src="assets/Mulay.svg"/> </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SamirPaul"><img loading="lazy" alt="LinkedIn" src="https://scdn.netlify.app/linkedin-samirpaul.svg"></a> &nbsp; 
-  <a href="https://twitter.com/SamirPaulb"><img loading="lazy" alt="Twitter" src="https://scdn.netlify.app/twitter-samirpaulb.svg"></a> &nbsp; 
-  <a href="https://github.com/SamirPaulb"><img loading="lazy" src="https://hits.sh/github.com/SamirPaul1.svg?label=Visitors&extraCount=20000&color=white&labelColor=blue" alt="Visitors"></a> 
-  <a href="https://github.com/SamirPaulb"><img loading="lazy" src="https://komarev.com/ghpvc/?username=SamirPaul1" width="1" height="1" /></a>  
+  <a href="https://www.linkedin.com/in/bhagyamulay"><img loading="lazy" alt="LinkedIn" src="https://scdn.netlify.app/linkedin-samirpaul.svg"></a> &nbsp; 
+  <a href="https://github.com/bhagya2506"><img loading="lazy" src="https://hits.sh/github.com/bhagya2506.svg?label=Visitors&extraCount=20000&color=white&labelColor=blue" alt="Visitors"></a> 
+  <a href="https://github.com/bhagya2506"><img loading="lazy" src="https://komarev.com/ghpvc/?username=bhagya2506" width="1" height="1" /></a>  
 </p>
 
 <!-- 
