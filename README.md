@@ -1,10 +1,10 @@
 # Hi,
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> Welcome </a>
+  <a href="https://github.com/BhagyaMulay"> I'm </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> Bhagya Mulay  </a>
+  <a href="https://github.com/BhagyaMulay"> Bhagya </a>
 </p>
 
 <p align="center">
