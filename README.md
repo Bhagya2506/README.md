@@ -1,6 +1,6 @@
-# Bhagya
+# Hi,
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> <img loading="lazy" alt="Welcome" src="assets/welcome.svg"/> </a>
+  <a href="https://github.com/BhagyaMulay">  </a>
 </p>
 
 <p align="center">
