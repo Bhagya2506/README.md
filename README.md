@@ -1,6 +1,6 @@
 # Hi,
 <p align="center">
-  <a href="https://github.com/BhagyaMulay">  alt="Welcome" </a>
+  <a href="https://github.com/BhagyaMulay"> "Welcome" </a>
 </p>
 
 <p align="center">
