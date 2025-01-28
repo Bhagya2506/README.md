@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BhagyaMulay"> <img loading="lazy" alt="Bhagya" src="assets/bhagya.svg"/> <img loading="lazy" alt="Mulay" src="assets/Mulay.svg"/> </a>
+  <a href="https://github.com/BhagyaMulay"> "Bhagyashree Mulay"  </a>
 </p>
 
 <p align="center">
