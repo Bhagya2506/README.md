@@ -1,11 +1,12 @@
-# Hi,
-<p align="center">
-  <a href="https://github.com/BhagyaMulay"> I'm </a>
+<p align="center" >
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%F7951A&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Bhagya;+Welcome+to+My+Profile!;Natural+Language+Processing+enthusiast+;machine+learning+enthusiast+;Artificial+Intelligence+enthusiast" alt="Avinash's tickering text" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/BhagyaMulay"> Bhagya </a>
-</p>
+<hr>
+<h3 align="left">Connect with me:</h3>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/p4rz1v4l26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://in.linkedin.com/in/avinash-warale-098654233?trk=public_post_follow-view-profile/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://x.com/Bhagyashre93805?t=zYqCsPQgdLuw2x89auRiLA&s=09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/896411007797325824/)  
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhagyamulay"> LinkedIn </a> &nbsp; 
